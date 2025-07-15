@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/Voxelum/x-minecraft-launcher">
     <img src="https://github.com/Voxelum/x-minecraft-launcher/workflows/Build/badge.svg" alt="Build">
