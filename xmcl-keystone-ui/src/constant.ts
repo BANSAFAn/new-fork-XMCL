@@ -12,6 +12,7 @@ import craftingTable from '@/assets/craftingtable.webp'
 import oculus from '@/assets/oculus.webp'
 
 export const BuiltinImages = {
+  
   minecraft,
   forge,
   fabric,
